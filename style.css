@@ -41,7 +41,7 @@ body{
     margin-top: 0.3rem;
     margin-bottom: 2.5rem;
     padding: 0.4rem 2rem;
-    background: #272727;
+    background: #494747;
     backdrop-filter: blur( 0px );
     border-radius: 20px;
     transition: background 0.25s;
@@ -59,7 +59,7 @@ body{
     text-align: center;
     line-height: 4rem;
     font-size: 1.8rem;
-    text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.5);
+    text-shadow: 2px 2px 12px #272727;
     transform: scale(0.9) translateZ(70px);
     transition: 1.50s;
 }
